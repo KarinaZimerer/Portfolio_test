@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Montserrat:wght@100&family=Sacramento&display=swap');
+
+
+
+*  {
+
+  color: rgb(185, 145, 164);
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 25px;
+  font-weight: none;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: 'Sacramento', cursive;
+  text-align: justify;
+  line-height: 40px;
+ }
+
+
+
+body {
+    color: beige;
+    background: rgb(24, 19, 21);
+    }
+
+body {
+    background: rgb(0, 0, 10);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Sacramento', cursive;
+    text-align: justify;
+    line-height: 40px;
+  }
+
+
+  p {
+    color: rgb(185, 145, 164);
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: none;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Sacramento', cursive;
+    text-align: justify;
+    line-height: 40px;
+   
+     }
+
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center ;
+    padding: 16px;
+     }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid purple
+ }
+
+
+.center {
+    text-align: center;
+}
+
+
+h1 {
+  color: rgb(189, 171, 206);
+}
+
+
+#texto {
+  color: rgb(115, 4, 109);
+ 
+}
+
+h3 {
+  color: rgb(189, 171, 206);
+  
+}
+
+h4 {
+    color: rgb(189, 171, 206);
+  }
+
+footer img {
+  width: 40px;
+  height: 40px;  
+}
+
+
+footer section{
+    display: flex; 
+  justify-content: center;
+  margin: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
